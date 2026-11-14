@@ -1,0 +1,96 @@
+TECHASSET BRIDGE — LENDER DISCUSSION PACK TEMPLATE
+===================================================
+
+A fill-in outline for summarising your equipment case in one consistent
+document. Replace the prompts in [brackets]. Keep it short: two to four pages
+is usually enough for a first conversation.
+
+General information only — not financial, legal or tax advice. TechAsset
+Bridge is not a bank, lender or provider of guaranteed financing. Financing
+decisions remain with the relevant financing providers.
+
+
+1. COMPANY SNAPSHOT
+-------------------
+Company name:            [ ]
+Founded / location:      [ ]
+Sector / technology:     [ ]
+Team size:               [ ]
+Development stage:       [e.g. early development / pilot customers / first
+                          revenue / scaling production]
+Contact person:          [ ]
+
+
+2. THE EQUIPMENT
+----------------
+Equipment description:   [ ]
+Supplier:                [ ]
+Price (excl. VAT):       [ ]
+Delivery time:           [ ]
+Expected useful life:    [ ]
+Standard or customised:  [ ]
+Resale / re-use notes:   [ ]
+
+
+3. WHY THIS EQUIPMENT, WHY NOW
+------------------------------
+[Describe the production step, customer order or milestone the equipment
+enables, and what happens if the investment is delayed.]
+
+
+4. MILESTONES
+-------------
+Milestone                     | Planned date | Status / evidence
+------------------------------|--------------|-------------------
+[ ]                           | [ ]          | [ ]
+[ ]                           | [ ]          | [ ]
+[ ]                           | [ ]          | [ ]
+
+
+5. COMMERCIAL EVIDENCE
+----------------------
+[Orders, letters of intent, pilots, framework agreements — with amounts and
+dates where possible.]
+
+
+6. CASH-FLOW SCENARIOS
+----------------------
+Scenario      | Key assumptions             | Effect on repayment capacity
+--------------|-----------------------------|-----------------------------
+Base case     | [ ]                         | [ ]
+Cautious case | [ ]                         | [ ]
+
+
+7. PROPOSED FINANCING MIX
+-------------------------
+Own contribution:        [amount and source]
+Requested financing:     [amount, preferred term]
+Structures of interest:  [e.g. financial lease, loan, vendor finance]
+Other sources:           [subsidies, co-financing, investors]
+
+
+8. RISK MITIGATION AND GUARANTEES
+---------------------------------
+Existing securities:     [ ]
+Available collateral:    [ ]
+Possible guarantees:     [scheme name — eligibility to be confirmed]
+Supplier involvement:    [buy-back, warranty, vendor finance]
+
+
+9. PREVIOUS FINANCING ATTEMPTS
+------------------------------
+[Who was approached, when, and what feedback was received.]
+
+
+10. QUESTIONS FOR THIS FINANCIER
+--------------------------------
+- Do you finance this type of asset, and at this stage of company?
+- Which documents do you need for a first assessment?
+- How do you value specialised or customised equipment?
+- Which guarantees or risk-sharing schemes do you work with?
+- What is a realistic timeline from first meeting to decision?
+- What would most strengthen our case in your view?
+- [Your own question]
+
+
+techassetbridge.netlify.app

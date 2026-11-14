@@ -1,0 +1,94 @@
+TECHASSET BRIDGE — FINANCING STRUCTURES COMPARISON WORKSHEET
+=============================================================
+
+Use this worksheet to compare financing structures side by side for one
+equipment investment, and to note questions for each provider. Fill in what
+you learn in each conversation.
+
+General information only — not financial, legal or tax advice. Terms,
+eligibility and availability differ per provider and change over time.
+Check accounting and tax effects with a qualified adviser.
+
+
+EQUIPMENT: [ ]                      INVESTMENT AMOUNT: [ ]
+
+
+STRUCTURE OVERVIEW
+------------------
+
+1. Bank loan
+   How it works: you borrow to buy the equipment and repay over a term; the
+   lender usually takes security.
+   Often asked: financial history, repayment capacity, collateral.
+   Provider(s) spoken to: [ ]
+   Indicative fit / notes: [ ]
+   Open questions: [ ]
+
+2. Financial lease
+   How it works: a lessor buys the equipment; you pay instalments for most of
+   its life, often with an option to own it at the end.
+   Often asked: asset value and resale market, ability to pay instalments.
+   Provider(s) spoken to: [ ]
+   Indicative fit / notes: [ ]
+   Open questions: [ ]
+
+3. Operational lease
+   How it works: you pay for use for part of the asset's life; the lessor
+   keeps ownership and residual-value risk.
+   Often asked: expected residual value, standardisation of the asset.
+   Provider(s) spoken to: [ ]
+   Indicative fit / notes: [ ]
+   Open questions: [ ]
+
+4. Vendor / supplier finance
+   How it works: the manufacturer, or its financing partner, offers financing
+   alongside the sale.
+   Often asked: supplier relationship, asset type, customer profile.
+   Provider(s) spoken to: [ ]
+   Indicative fit / notes: [ ]
+   Open questions: [ ]
+
+5. Sale-and-leaseback
+   How it works: equipment you already own is sold to a lessor and leased
+   back, releasing capital.
+   Often asked: current asset value, condition, ownership documentation.
+   Provider(s) spoken to: [ ]
+   Indicative fit / notes: [ ]
+   Open questions: [ ]
+
+6. Guarantee-supported lending
+   How it works: a public or private guarantee covers part of the financier's
+   risk.
+   Often asked: scheme eligibility criteria, business case, financier's own
+   assessment.
+   Provider(s) spoken to: [ ]
+   Indicative fit / notes: [ ]
+   Open questions: [ ]
+
+
+SIDE-BY-SIDE COMPARISON
+-----------------------
+Criterion                 | Option A | Option B | Option C
+--------------------------|----------|----------|----------
+Structure                 |          |          |
+Provider                  |          |          |
+Amount covered            |          |          |
+Term                      |          |          |
+Own contribution needed   |          |          |
+Security / guarantees     |          |          |
+Ownership at end of term  |          |          |
+Flexibility (early exit)  |          |          |
+Documents requested       |          |          |
+Expected time to decision |          |          |
+Indicative total cost     |          |          |
+Main open question        |          |          |
+
+
+NEXT STEPS
+----------
+[ ]
+[ ]
+[ ]
+
+
+techassetbridge.netlify.app

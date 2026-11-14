@@ -1,0 +1,67 @@
+TECHASSET BRIDGE — EQUIPMENT FINANCING PREPARATION CHECKLIST
+=============================================================
+
+Use this checklist to collect the documents and information that financiers
+commonly ask about before you approach a bank, lessor or other provider.
+Requirements differ per provider, so always confirm what they need.
+
+General information only — not financial, legal or tax advice. TechAsset
+Bridge is not a bank, lender or provider of guaranteed financing.
+
+
+1. THE EQUIPMENT
+----------------
+[ ] Formal supplier quotation (price, delivery time, payment schedule)
+[ ] Technical description of the equipment and its specifications
+[ ] Expected useful life and maintenance requirements
+[ ] Warranty and service terms
+[ ] Information on resale or re-use potential (second-hand market)
+[ ] Any supplier buy-back or vendor-finance options offered
+
+
+2. THE PURPOSE
+--------------
+[ ] What the equipment enables (production step, order, milestone)
+[ ] Why it is needed now, and what happens if it is delayed
+[ ] Milestone plan linking the equipment to technical and commercial progress
+
+
+3. THE COMPANY
+--------------
+[ ] Latest annual accounts
+[ ] Recent interim figures (e.g. last quarter)
+[ ] Short company profile: team, technology, customers, stage
+[ ] Overview of existing loans, leases and securities given
+[ ] Overview of previous financing attempts and their outcome
+
+
+4. COMMERCIAL EVIDENCE
+----------------------
+[ ] Customer orders, letters of intent or framework agreements
+[ ] Pilot results or customer validation
+[ ] Relevant certifications or test results
+
+
+5. FINANCIAL SCENARIOS
+----------------------
+[ ] Cash-flow forecast including the financing costs
+[ ] Base case and a cautious (downside) scenario
+[ ] Explanation of how delays would be handled
+
+
+6. RISK MITIGATION
+------------------
+[ ] Own contribution and how it is funded
+[ ] Available collateral
+[ ] Possible guarantees or risk-sharing schemes (check eligibility per scheme)
+[ ] Subsidies, grants or co-financing already secured or applied for
+
+
+7. BEFORE THE MEETING
+---------------------
+[ ] One consistent summary of the case that all documents agree with
+[ ] A list of questions for each financier (see the lender discussion pack
+    template)
+
+
+techassetbridge.netlify.app
